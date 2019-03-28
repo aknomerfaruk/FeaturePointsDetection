@@ -1,1 +1,1 @@
-This Project Finds the Feature Points of Mouth
+Ağızda bulunan nirengi noktalarını gösteren bir MATLAB Projesi  
